@@ -9,6 +9,9 @@ namespace AngularProject.DataObjects
 {
     public class FavoritedTicket
     {
+
+        //test comment from zack//
+
         [Key]
         public int FavoriteId { get; set; }
 
