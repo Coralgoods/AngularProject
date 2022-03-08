@@ -8,6 +8,7 @@ namespace AngularProject.DataObjects
 {
     public class TicketContext : DbContext
     {
+        //by god this is amazing
         public DbSet<Ticket> Tickets { get; set; }
         public DbSet<FavoritedTicket> FavoritedTickets { get; set; }
 
