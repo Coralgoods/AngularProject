@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+// This method gets 
+
 namespace AngularProject.DataObjects
 {
     public class Ticket
